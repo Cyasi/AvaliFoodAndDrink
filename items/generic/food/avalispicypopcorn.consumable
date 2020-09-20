@@ -1,0 +1,28 @@
+{
+    "itemName": "avalispicypopcorn",
+    "rarity": "common",
+    "price": 180,
+    "category": "preparedFood",
+    "inventoryIcon": "avalispicypopcorn.png",
+    "description": "Typical Popcorn, with Nakati added. Spicy and really yummy.",
+    "shortdescription": "Spicy Popcorn",
+    "foodValue": 35,
+    "tooltipKind": "food",
+    "effects" : [ [
+        {
+            "effect" : "jumpboostfood",
+            "duration" : 135
+        },
+        {
+            "effect" : "maxenergyscalingboostfood",
+            "duration" : 135
+        }
+    ] ],
+    "builder": "/items/buildscripts/buildfood.lua",
+    "maxStack": 1,
+    "itemAgingScripts": ["/scripts/items/rotting.lua"],
+    "rottingMultiplier": 1.0,
+    "blockingEffects": [
+        "wellfed"
+    ]
+}

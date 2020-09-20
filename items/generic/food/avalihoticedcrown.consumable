@@ -1,0 +1,24 @@
+{
+    "itemName": "avalihoticedcrown",
+    "rarity": "uncommon",
+    "price": 200,
+    "category": "preparedFood",
+    "inventoryIcon": "avalihoticedcrown.png",
+    "description": "No idea how anyone came up with the idea to cook a feathercrown just to freeze it before eating.",
+    "shortdescription": "Hot Iced Crown",
+    "foodValue": 55,
+    "tooltipKind": "food",
+    "effects" : [ [
+        {
+            "effect" : "maxhealthscalingboostfood",
+            "duration" : 428
+        }
+    ] ],
+    "builder": "/items/buildscripts/buildfood.lua",
+    "maxStack": 1,
+    "itemAgingScripts": ["/scripts/items/rotting.lua"],
+    "rottingMultiplier": 1.0,
+    "blockingEffects": [
+        "wellfed"
+    ]
+}

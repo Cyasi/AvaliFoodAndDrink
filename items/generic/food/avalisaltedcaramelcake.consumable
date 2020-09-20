@@ -1,0 +1,24 @@
+{
+    "itemName": "avalisaltedcaramelcake",
+    "rarity": "rare",
+    "price": 400,
+    "category": "preparedFood",
+    "inventoryIcon": "avalisaltedcaramelcake.png",
+    "description": "So sweet and salty! And full of sugar! Do never give this to an avali!",
+    "shortdescription": "Salted Caramel Cake",
+    "foodValue": 60,
+    "tooltipKind": "food",
+    "effects" : [ [
+        {
+            "effect" : "maxenergyscalingboostfood",
+            "duration" : 540
+        }
+    ] ],
+    "builder": "/items/buildscripts/buildfood.lua",
+    "maxStack": 1,
+    "itemAgingScripts": ["/scripts/items/rotting.lua"],
+    "rottingMultiplier": 1.0,
+    "blockingEffects": [
+        "wellfed"
+    ]
+}

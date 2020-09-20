@@ -1,0 +1,11 @@
+{
+    "input" : [
+        { "item" : "avaliproduce4", "count" : 1 },
+        { "item" : "avaliplant4", "count" : 1 },
+        { "item" : "avaliflour", "count" : 1 },
+        { "item" : "sugar", "count" : 1 }
+    ],
+    "output" : { "item" : "avalisaltedcaramelcake", "count" : 1 },
+    "groups" : [ "kitchen", "mains" ],
+    "collectables" : { "cooking" : "avalisaltedcaramelcake" }
+}

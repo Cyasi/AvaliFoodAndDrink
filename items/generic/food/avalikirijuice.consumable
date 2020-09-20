@@ -1,0 +1,24 @@
+{
+    "itemName": "avalikirijuice",
+    "rarity": "common",
+    "price": 90,
+    "category": "preparedFood",
+    "inventoryIcon": "avalikirijuice.png",
+    "description": "Looks gross but is quiet tasty.",
+    "shortdescription": "Kiri Juice",
+    "foodValue": 20,
+    "tooltipKind": "food",
+    "effects" : [ [
+        {
+            "effect" : "maxhealthscalingboostfood",
+            "duration" : 135
+        }
+    ] ],
+    "builder": "/items/buildscripts/buildfood.lua",
+    "maxStack": 1,
+    "itemAgingScripts": ["/scripts/items/rotting.lua"],
+    "rottingMultiplier": 0.2,
+    "blockingEffects": [
+        "wellfed"
+    ]
+}

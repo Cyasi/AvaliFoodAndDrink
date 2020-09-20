@@ -1,0 +1,10 @@
+{
+    "input" : [
+        { "item" : "popcorn", "count" : 1 },
+        { "item" : "avaliproduce2", "count" : 1 }
+    ],
+    "output" : { "item" : "avalispicypopcorn", "count" : 1 },
+    "groups" : [ "kitchen", "mains" ],
+    "collectables" : { "cooking" : "avalispicypopcorn" }
+}
+

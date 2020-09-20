@@ -1,0 +1,17 @@
+[
+    {
+        "op" : "add",
+        "path" : "/learnBlueprintsOnPickup/-",
+        "value" : "avalinakaticoffee"
+    },
+    {
+        "op" : "add",
+        "path" : "/learnBlueprintsOnPickup/-",
+        "value" : "avalihoticedcrown"
+    },
+    {
+        "op" : "add",
+        "path" : "/learnBlueprintsOnPickup/-",
+        "value" : "avalispicypopcorn"
+    }
+]

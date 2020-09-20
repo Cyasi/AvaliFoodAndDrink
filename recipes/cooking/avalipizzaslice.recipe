@@ -1,0 +1,12 @@
+{
+    "input" : [
+        { "item" : "alienmeat", "count" : 1 },
+        { "item" : "avaliplant4", "count" : 1 },
+        { "item" : "avaliproduce2", "count" : 1 },
+        { "item" : "avaliflour", "count" : 1 }
+    ],
+    "output" : { "item" : "avalipizzaslice", "count" : 1 },
+    "groups" : [ "kitchen", "mains" ],
+    "collectables" : { "cooking" : "avalipizzaslice" }
+}
+

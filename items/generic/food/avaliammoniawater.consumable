@@ -1,0 +1,22 @@
+{
+    "itemName" : "avaliammoniawater",
+    "price" : 20,
+    "rarity" : "Common",
+    "category" : "drink",
+    "inventoryIcon" : "avaliammoniawater.png",
+    "description": "Refreshing for ammonia based races, others should not drink it.",
+    "shortdescription" : "Ammoniawater",
+    "maxStack" : 1,
+    "effects" : [ [
+        {
+            "effect" : "bottledwaterheal",
+            "duration" : 10
+        }
+    ] ],
+    "blockingEffects" : [
+        "bottledwaterheal"
+    ],
+    "emote" : "",
+    "emitters" : [ "drinking" ],
+    "learnBlueprintsOnPickup" : [ "avalikirijuice", "avalikiriwaterice", "avalinakaticoffee" ]
+}

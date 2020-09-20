@@ -1,0 +1,28 @@
+{
+    "itemName": "avalibookiri",
+    "rarity": "Rare",
+    "price": 475,
+    "category": "preparedFood",
+    "inventoryIcon": "avalibookiri.png",
+    "description": "Boneboo filled with spicy meat on some kiri noodles. Absolute favourite dish of many Avali.",
+    "shortdescription": "Bookiri",
+    "foodValue": 95,
+    "tooltipKind": "food",
+    "effects" : [ [
+        {
+            "effect" : "maxhealthscalingboostfood",
+            "duration" : 428
+        },
+        {
+            "effect" : "maxenergyscalingboostfood",
+            "duration" : 428
+        }
+    ] ],
+    "builder": "/items/buildscripts/buildfood.lua",
+    "maxStack": 1,
+    "itemAgingScripts": ["/scripts/items/rotting.lua"],
+    "rottingMultiplier": 1.0,
+    "blockingEffects": [
+        "wellfed"
+    ]
+}

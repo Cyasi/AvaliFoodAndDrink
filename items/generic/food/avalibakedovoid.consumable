@@ -1,0 +1,18 @@
+{
+    "itemName" : "avalibakedovoid",
+    "rarity" : "Common",
+    "price" : 100,
+    "category" : "preparedFood",
+    "inventoryIcon" : "avalibakedovoid.png",
+    "description": "A simple baked Ovoid, like a potato but so different.",
+    "shortdescription" : "Baked Ovoid",
+    "foodValue" : 20,
+    "tooltipKind" : "food",
+    "builder" : "/items/buildscripts/buildfood.lua",
+    "maxStack" : 1,
+    "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+    "rottingMultiplier" : 1.0,
+    "blockingEffects" : [
+        "wellfed"
+    ]
+}

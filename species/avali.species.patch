@@ -1,0 +1,11 @@
+[
+    {
+        "op" : "add",
+        "path" : "/defaultBlueprints",
+        "value" : {
+            "tier1" : [
+                { "item" : "avalibakedovoid"}
+            ]
+        }
+    }
+]

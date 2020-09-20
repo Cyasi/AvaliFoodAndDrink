@@ -1,0 +1,28 @@
+{
+    "itemName": "avalicookiedoughicecream",
+    "rarity": "uncommon",
+    "price": 350,
+    "category": "preparedFood",
+    "inventoryIcon": "avalicookiedoughicecream.png",
+    "description": "Soft and creamy ice with dough made of soft Piru flour.",
+    "shortdescription": "Cookie Dough Ice Cream",
+    "foodValue": 25,
+    "tooltipKind": "food",
+    "effects" : [ [
+        {
+            "effect" : "runboostfood",
+            "duration" : 203
+        },
+        {
+            "effect" : "maxenergyscalingboostfood",
+            "duration" : 203
+        }
+    ] ],
+    "builder": "/items/buildscripts/buildfood.lua",
+    "maxStack": 1,
+    "itemAgingScripts": ["/scripts/items/rotting.lua"],
+    "rottingMultiplier": 1.0,
+    "blockingEffects": [
+        "wellfed"
+    ]
+}

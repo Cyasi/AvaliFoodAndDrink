@@ -1,0 +1,25 @@
+{
+    "itemName": "avalinakaticoffee",
+    "rarity": "common",
+    "price": 115,
+    "category": "preparedFood",
+    "inventoryIcon": "avalinakaticoffee.png",
+    "description": "After watching humans pour in litres of coffee, some tried to copy it. It's like drinking spiced disinfectants.",
+    "shortdescription": "Nakati Coffee",
+    "foodValue": 15,
+    "tooltipKind": "food",
+    "effects" : [ [
+        {
+            "effect" : "maxenergyscalingboostfood",
+            "duration" : 135
+        }
+    ] ],
+    "builder": "/items/buildscripts/buildfood.lua",
+    "maxStack": 1,
+    "itemAgingScripts": ["/scripts/items/rotting.lua"],
+    "rottingMultiplier": 1.0,
+    "blockingEffects": [
+        "wellfed"
+    ],
+    "emitters" : [ "drinking" ]
+}

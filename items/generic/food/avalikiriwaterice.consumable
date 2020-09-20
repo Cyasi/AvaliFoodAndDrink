@@ -1,0 +1,24 @@
+{
+    "itemName": "avalikiriwaterice",
+    "rarity": "common",
+    "price": 125,
+    "category": "preparedFood",
+    "inventoryIcon": "avalikiriwaterice.png",
+    "description": "There is so much ice on Avalon, it was just a matter of time until an Avali throw a Kiri in it.",
+    "shortdescription": "Kiri Waterice",
+    "foodValue": 20,
+    "tooltipKind": "food",
+    "effects" : [ [
+        {
+            "effect" : "maxhealthscalingboostfood",
+            "duration" : 155
+        }
+    ] ],
+    "builder": "/items/buildscripts/buildfood.lua",
+    "maxStack": 1,
+    "itemAgingScripts": ["/scripts/items/rotting.lua"],
+    "rottingMultiplier": 1.0,
+    "blockingEffects": [
+        "wellfed"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "author" : "Cyasi",
+  "description" : "Avali food and drink mod for Starbound 1.4 and Avali Triage mod \n[h1][b]If you have issues, please go to https://github.com/Cyasi/AvaliFoodAndDrink/issues and post a new issue describing the problem. Include your starbound.log file located at \"/steamapps/common/Starbound/storage/starbound.log\". \n[i]I CANNOT FIX YOUR ISSUE WITHOUT THIS FILE.[/i][/b][/h1]",
+  "friendlyName" : "Avali Food and Drink Mod",
+  "includes" : ["ztarbound","Avali","Avali Augments And Assorments: Revisited"],
+  "name" : "AvaliFoodAndDrink",
+  "tags" : "Species|Food and Farming|Drinks|Avali",
+  "version" : "0.0.1"
+}

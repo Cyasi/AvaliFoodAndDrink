@@ -1,0 +1,7 @@
+[
+    {
+        "op" : "add",
+        "path" : "/collectables",
+        "value" : { "cooking" : "avalnoodle2" }
+    }
+]

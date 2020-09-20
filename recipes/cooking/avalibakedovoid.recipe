@@ -1,0 +1,9 @@
+{
+    "input" : [
+        { "item" : "avaliplant2", "count" : 1 }
+    ],
+    "output" : { "item" : "avalibakedovoid", "count" : 1 },
+    "groups" : [ "kitchen", "mains" ],
+    "collectables" : { "cooking" : "avalibakedovoid" }
+}
+

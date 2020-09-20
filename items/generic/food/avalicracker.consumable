@@ -1,0 +1,25 @@
+{
+    "itemName": "avalicracker",
+    "rarity": "common",
+    "price": 50,
+    "category": "preparedFood",
+    "inventoryIcon": "avalicracker.png",
+    "description": "A must on every Party.",
+    "shortdescription": "Salty Crackers",
+    "foodValue": 10,
+    "tooltipKind": "food",
+    "effects" : [ [
+        {
+            "effect" : "partytime",
+            "duration" : 30
+        }
+    ] ],
+    "builder": "/items/buildscripts/buildfood.lua",
+    "maxStack": 3,
+    "itemAgingScripts": ["/scripts/items/rotting.lua"],
+    "rottingMultiplier": 0.1,
+    "blockingEffects": [
+        "wellfed",
+        "partytime"
+    ]
+}

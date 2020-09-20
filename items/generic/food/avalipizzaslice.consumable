@@ -1,0 +1,19 @@
+{
+    "itemName": "avalipizzaslice",
+    "rarity": "common",
+    "price": 90,
+    "category": "preparedFood",
+    "inventoryIcon": "avalipizzaslice.png",
+    "description": "A Pizza Slice with really spicy topping.",
+    "shortdescription": "Nakati Pizza",
+    "foodValue": 25,
+    "tooltipKind": "food",
+    "effects": [],
+    "builder": "/items/buildscripts/buildfood.lua",
+    "maxStack": 4,
+    "itemAgingScripts": ["/scripts/items/rotting.lua"],
+    "rottingMultiplier": 1.0,
+    "blockingEffects": [
+        "wellfed"
+    ]
+}

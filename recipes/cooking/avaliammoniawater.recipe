@@ -1,0 +1,10 @@
+{
+    "input" : [
+        { "item" : "rottenfood", "count" : 2 },
+        { "item" : "liquidwater", "count" : 1 },
+        { "item" : "bottle", "count" : 1 }
+    ],
+    "output" : { "item" : "avaliammoniawater", "count" : 1 },
+    "groups" : [ "kitchen", "mains" ]
+}
+
