@@ -4,7 +4,7 @@
         "path" : "/avaliingredients",
         "value" : [
             [ 0, [
-                { "item": { "name": "avaliammoniawater" }, "rarity" : 0.5 },
+                { "item": { "name": "avalibottle1" }, "rarity" : 0.05 },
                 { "item": { "name": "avalicracker" }, "rarity" : 0.05 },
                 { "item": { "name": "avalispicypopcorn" }, "rarity" : 0.05 }
             ] ]
@@ -15,7 +15,7 @@
         "path" : "/avalichef",
         "value" : [
             [ 0, [
-                { "item": { "name": "avaliammoniawater" }, "rarity" : 0.2 },
+                { "item": { "name": "avalibottle1" }, "rarity" : 0.1 },
                 { "item": { "name": "avalibakedovoid" }, "rarity" : 0.05 },
                 { "item": { "name": "avalicracker" }, "rarity" : 0.05 },
                 { "item": { "name": "avalikirijuice" }, "rarity" : 0.05 },

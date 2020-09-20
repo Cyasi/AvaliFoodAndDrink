@@ -1,7 +1,7 @@
 {
     "input" : [
         { "item" : "avaliproduce1", "count" : 1 },
-        { "item" : "avaliammoniawater", "count" : 1 }
+        { "item" : "avalibottle1", "count" : 1 }
     ],
     "output" : { "item" : "avalikirijuice", "count" : 1 },
     "groups" : [ "kitchen", "mains" ],

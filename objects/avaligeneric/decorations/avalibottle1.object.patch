@@ -1,0 +1,17 @@
+[
+    {
+        "op" : "add",
+        "path" : "/learnBlueprintsOnPickup",
+        "value" : [ "avalikirijuice", "avalikiriwaterice", "avalinakaticoffee" ]
+    },
+    {
+        "op" : "replace",
+        "path" : "/shortdescription",
+        "value" : "Ammonia Liquid"
+    },
+    {
+        "op" : "add",
+        "path" : "/price",
+        "value" : 50
+    }
+]

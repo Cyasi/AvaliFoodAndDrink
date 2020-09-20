@@ -4,7 +4,7 @@
     "price": 90,
     "category": "preparedFood",
     "inventoryIcon": "avalikirijuice.png",
-    "description": "Looks gross but is quiet tasty.",
+    "description": "Looks gross but is pretty tasty.",
     "shortdescription": "Kiri Juice",
     "foodValue": 20,
     "tooltipKind": "food",
@@ -17,8 +17,9 @@
     "builder": "/items/buildscripts/buildfood.lua",
     "maxStack": 1,
     "itemAgingScripts": ["/scripts/items/rotting.lua"],
-    "rottingMultiplier": 0.2,
+    "rottingMultiplier": 1.0,
     "blockingEffects": [
         "wellfed"
-    ]
+    ],
+    "emitters" : [ "drinking" ]
 }
