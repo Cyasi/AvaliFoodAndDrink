@@ -4,7 +4,7 @@ Avali mod for more Foods and Drinks and optional use of the Muli Fruit from Aval
 Please report issues promptly, using the Issues button at the top of the page. 
 
 ## TODO
-* Add ~~recipes and~~ images
+* ~~Add recipes and images~~
 * ~~Change Prices~~
 * ~~Add Effects~~
 * ~~Add blueprints and learnBlueprintsOnPickup patches~~
@@ -13,7 +13,7 @@ Please report issues promptly, using the Issues button at the top of the page.
 * ~~Collectables~~
 * ~~Patch Avali Triage Mod Collectables, learnBlueprintsOnPickup~~
 * Sort recipes to tiers
-* Kick out ammoniawater or change it somehow. replace with avalibottle1.
+* ~~Kick out ammoniawater or change it somehow. replace with avalibottle1.~~
 * Add muli fruit
 * Include AAaA Cider
 * Try to solve conflicts with AAaA (or mark it as conflict)
