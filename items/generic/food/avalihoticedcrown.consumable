@@ -12,6 +12,14 @@
         {
             "effect" : "maxhealthscalingboostfood",
             "duration" : 428
+        },
+        {
+            "effect" : "fireStatusImmunity",
+            "duration" : 30
+        },
+        {
+            "effect" : "iceStatusImmunity",
+            "duration" : 30
         }
     ] ],
     "builder": "/items/buildscripts/buildfood.lua",
