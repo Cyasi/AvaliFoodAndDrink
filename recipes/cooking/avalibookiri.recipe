@@ -1,10 +1,9 @@
 {
     "input" : [
         { "item" : "boneboo", "count" : 1 },
-        { "item" : "cookedalienmeat", "count" : 1 },
+        { "item" : "avalimeat", "count" : 1 },
         { "item" : "avaliproduce2", "count" : 1 } ,
-        { "item" : "avalinoodle", "count" : 1 },
-        { "item" : "avaliproduce4", "count" : 1 }
+        { "item" : "avalinoodle", "count" : 1 }
     ],
     "output" : { "item" : "avalibookiri", "count" : 1 },
     "groups" : [ "kitchen", "mains" ],

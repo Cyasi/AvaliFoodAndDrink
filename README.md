@@ -5,6 +5,7 @@ Please report issues promptly, using the Issues button at the top of the page.
 
 ## TODO
 * ~~Add recipes and images~~
+* more recipes: mulipod cocktail
 * ~~Change Prices~~
 * ~~Add Effects~~
 * ~~Add blueprints and learnBlueprintsOnPickup patches~~

@@ -1,8 +1,8 @@
 {
     "input" : [
         { "item" : "feathercrown", "count" : 1 },
-        { "item" : "alienmeat", "count" : 1 },
-        { "item" : "avaliproduce2", "count" : 2 },
+        { "item" : "avalimeat", "count" : 1 },
+        { "item" : "avaliproduce2", "count" : 1 },
         { "item" : "avaliproduce4", "count" : 1 },
         { "item" : "snowball", "count" : 1 }
     ],

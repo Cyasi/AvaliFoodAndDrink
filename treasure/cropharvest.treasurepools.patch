@@ -1,7 +1,12 @@
 [
-    {
-        "op": "replace",
-        "path": "/muliHarvest/0/1/pool/1/weight",
-        "value": 1
-    }
+  {
+    "op": "replace",
+    "path": "/muliHarvest/0/1/pool/1/weight",
+    "value": 0.85
+  },
+  {
+    "op": "replace",
+    "path": "/muliHarvest/0/1/poolRounds/1/0",
+    "value": 0.2
+  }
 ]

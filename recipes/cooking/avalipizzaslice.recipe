@@ -1,6 +1,6 @@
 {
     "input" : [
-        { "item" : "alienmeat", "count" : 1 },
+        { "item" : "avalimeat", "count" : 1 },
         { "item" : "avaliplant4", "count" : 1 },
         { "item" : "avaliproduce2", "count" : 1 },
         { "item" : "avaliflour", "count" : 1 }

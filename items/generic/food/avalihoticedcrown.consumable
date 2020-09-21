@@ -14,11 +14,11 @@
             "duration" : 428
         },
         {
-            "effect" : "fireStatusImmunity",
+            "effect" : "fireblock",
             "duration" : 30
         },
         {
-            "effect" : "iceStatusImmunity",
+            "effect" : "iceblock",
             "duration" : 30
         }
     ] ],
