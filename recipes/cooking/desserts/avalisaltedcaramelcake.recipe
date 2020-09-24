@@ -6,6 +6,6 @@
         { "item" : "sugar", "count" : 1 }
     ],
     "output" : { "item" : "avalisaltedcaramelcake", "count" : 1 },
-    "groups" : [ "kitchen", "mains" ],
+    "groups" : [ "kitchen", "desserts" ],
     "collectables" : { "cooking" : "avalisaltedcaramelcake" }
 }

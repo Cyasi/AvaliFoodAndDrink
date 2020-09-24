@@ -5,7 +5,7 @@ Please report issues promptly, using the Issues button at the top of the page.
 
 ## TODO
 * ~~Add recipes and images~~
-* more recipes: mulipod cocktail
+* more recipes: mulipod cocktail, salad from glowing vines
 * ~~Change Prices~~
 * ~~Add Effects~~
 * ~~Add blueprints and learnBlueprintsOnPickup patches~~
@@ -13,7 +13,7 @@ Please report issues promptly, using the Issues button at the top of the page.
 * ~~Add to markets~~
 * ~~Collectables~~
 * ~~Patch Avali Triage Mod Collectables, learnBlueprintsOnPickup~~
-* Sort recipes to tiers
+* ~~Sort recipes to tiers~~
 * ~~Kick out ammoniawater or change it somehow. replace with avalibottle1.~~
 * Add muli fruit
 * Include AAaA Cider

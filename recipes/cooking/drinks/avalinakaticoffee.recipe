@@ -5,7 +5,7 @@
         { "item" : "milk", "count" : 1 }
     ],
     "output" : { "item" : "avalinakaticoffee", "count" : 1 },
-    "groups" : [ "kitchen", "mains" ],
+    "groups" : [ "kitchen", "drinks" ],
     "collectables" : { "cooking" : "avalinakaticoffee" }
 }
 

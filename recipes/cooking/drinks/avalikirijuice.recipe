@@ -4,7 +4,7 @@
         { "item" : "avalibottle1", "count" : 1 }
     ],
     "output" : { "item" : "avalikirijuice", "count" : 1 },
-    "groups" : [ "kitchen", "mains" ],
+    "groups" : [ "kitchen", "drinks" ],
     "collectables" : { "cooking" : "avalikirijuice" }
 }
 

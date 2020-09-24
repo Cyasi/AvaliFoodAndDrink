@@ -5,7 +5,7 @@
         { "item" : "avaliplant4", "count" : 1 }
     ],
     "output" : { "item" : "avalicracker", "count" : 1 },
-    "groups" : [ "kitchen", "mains" ],
+    "groups" : [ "kitchen", "snacks" ],
     "collectables" : { "cooking" : "avalicracker" }
 }
 
