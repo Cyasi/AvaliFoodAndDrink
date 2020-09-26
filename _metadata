@@ -5,5 +5,5 @@
   "includes" : ["ztarbound", "Avali", "Avali Augments And Assorments: Revisited"],
   "name" : "AvaliFoodAndDrink",
   "tags" : "Food and Farming",
-  "version" : "0.0.1"
+  "version" : "1.0.0"
 }
