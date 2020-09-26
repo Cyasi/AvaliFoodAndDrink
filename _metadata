@@ -1,9 +1,11 @@
 {
   "author" : "Cyasi",
-  "description" : "Avali food and drink mod for Starbound 1.4. Avali Triage mod and Avali Augments And Assorments: Revisited required. \n[h1][b]If you have issues, please go to https://github.com/Cyasi/AvaliFoodAndDrink/issues and post a new issue describing the problem. Include your starbound.log file located at \"/steamapps/common/Starbound/storage/starbound.log\". \n[i]I CANNOT FIX YOUR ISSUE WITHOUT THIS FILE.[/i][/b][/h1]",
+  "description" : "[h1]Avali food and drink mod for Starbound 1.4.[/h1] \nAvali Triage mod and Avali Augments And Assorments: Revisited required. \n\n-------------------------- \n[b]If you have issues, please go to https://github.com/Cyasi/AvaliFoodAndDrink/issues and post a new issue describing the problem. Include your starbound.log file located at \"/steamapps/common/Starbound/storage/starbound.log\". \n[u]I CANNOT FIX YOUR ISSUE WITHOUT THIS FILE[/u].[/b] \n\n[b]DISCLAIMER[/b]: I haven't tried it yet but I’m sure it wont work with FU, since FU overrides the ID's of Kiri/Nakati/Piru with their own ID. \n-------------------------- \n\nThis mod adds a few recipes for Avalis that are based on Kiri, Piru, Nakati/Ovoid from \"Avali Triage Mod\" and Muli from \"Avali Augments And Assorments: Revisited\" and some other Vanilla-items.\nAlso rises the Muli Seed drop rate and change the recipe of the avalibottle1 (Which is \"Ammonia Fluid\" now instead of \"Avali Bottle\". Was it before, too. Haven't changed the description. It's just to make this description, the reactions of the races and the recipes more logical.) \n\nI haven’t spent months working with the Avali lore but I've tried adjusting everything accordingly as best as I can. \n\nHave fun with the mod. When I have time or when I'm in the mood I will add some more recipes. I am open for proposals.",
   "friendlyName" : "Avali Food and Drink Mod",
   "includes" : ["ztarbound", "Avali", "Avali Augments And Assorments: Revisited"],
+  "link" : "steam://url/CommunityFilePage/2239569164",
   "name" : "AvaliFoodAndDrink",
+  "steamContentId" : "2239569164",
   "tags" : "Food and Farming",
   "version" : "1.0.0"
 }
