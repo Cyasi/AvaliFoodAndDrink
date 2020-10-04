@@ -15,7 +15,7 @@ Please report issues promptly, using the Issues button at the top of the page.
 * ~~Patch Avali Triage Mod Collectables, learnBlueprintsOnPickup~~
 * ~~Sort recipes to tiers~~
 * ~~Kick out ammoniawater or change it somehow. replace with avalibottle1.~~
-* Add muli fruit?
-* Include AAaA Cider?
-* Try to solve conflicts with AAaA (or mark it as conflict)?
-* Solve conflicts with Fracking Universe (FU) (maybe with an extra patch mod)
+* ~~Add muli fruit?~~
+* ~~Include AAaA Cider?~~
+* ~~Try to solve conflicts with AAaA (or mark it as conflict)?~~ -> Added it as required.
+* ~~Solve conflicts with Fracking Universe (FU) (maybe with an extra patch mod)~~
