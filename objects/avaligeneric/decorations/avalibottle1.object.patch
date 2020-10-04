@@ -1,17 +1,41 @@
 [
-    {
-        "op" : "add",
-        "path" : "/learnBlueprintsOnPickup",
-        "value" : [ "avalikirijuice", "avalikiriwaterice", "avalinakaticoffee" ]
-    },
-    {
-        "op" : "replace",
-        "path" : "/shortdescription",
-        "value" : "Ammonia Liquid"
-    },
-    {
-        "op" : "add",
-        "path" : "/price",
-        "value" : 50
-    }
+	[
+        {
+            "op": "test",
+            "path": "/learnBlueprintsOnPickup",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup",
+            "value":[]
+        }
+    ],
+	[
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "avalikirijuice"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "avalikiriwaterice"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "avalinakaticoffee"
+        },
+        {
+            "op" : "replace",
+            "path" : "/shortdescription",
+            "value" : "Ammonia Liquid"
+        },
+        {
+            "op" : "add",
+            "path" : "/price",
+            "value" : 50
+        }
+    ]
 ]
