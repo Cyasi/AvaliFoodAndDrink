@@ -1,12 +1,14 @@
 [
-    {
-        "op" : "add",
-        "path" : "/learnBlueprintsOnPickup/-",
-        "value" : "avalikirijuice"
-    },
-    {
-        "op" : "add",
-        "path" : "/learnBlueprintsOnPickup/-",
-        "value" : "avalikiriwaterice"
-    }
+    [
+        {
+            "op" : "add",
+            "path" : "/learnBlueprintsOnPickup/-",
+            "value" : "avalikirijuice"
+        },
+        {
+            "op" : "add",
+            "path" : "/learnBlueprintsOnPickup/-",
+            "value" : "avalikiriwaterice"
+        }
+    ]
 ]

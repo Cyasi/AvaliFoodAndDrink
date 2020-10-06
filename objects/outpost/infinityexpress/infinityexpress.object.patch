@@ -1,10 +1,12 @@
 [
-    {
-        "op": "add",
-        "path": "/interactData/items/-",
-        "value": {
-            "item" : "avalibottle1"
+    [
+        {
+            "op": "add",
+            "path": "/interactData/items/-",
+            "value": {
+                "item" : "avalibottle1"
+            }
         }
-    }
+    ]
 ]
 

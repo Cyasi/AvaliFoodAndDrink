@@ -1,7 +1,9 @@
 [
-    {
-        "op" : "add",
-        "path" : "/collectables",
-        "value" : { "cooking" : "avalicider" }
-    }
+    [
+        {
+            "op" : "add",
+            "path" : "/collectables",
+            "value" : { "cooking" : "avalicider" }
+        }
+    ]
 ]

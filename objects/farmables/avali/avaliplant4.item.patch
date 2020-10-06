@@ -1,12 +1,14 @@
 [
-    {
-        "op" : "add",
-        "path" : "/learnBlueprintsOnPickup/-",
-        "value" : "avalicookiedoughicecream"
-    },
-    {
-        "op" : "add",
-        "path" : "/learnBlueprintsOnPickup/-",
-        "value" : "avalipizzaslice"
-    }
+    [
+        {
+            "op" : "add",
+            "path" : "/learnBlueprintsOnPickup/-",
+            "value" : "avalicookiedoughicecream"
+        },
+        {
+            "op" : "add",
+            "path" : "/learnBlueprintsOnPickup/-",
+            "value" : "avalipizzaslice"
+        }
+    ]
 ]

@@ -1,130 +1,132 @@
 [
-	{ 	"op": "add",
-		"path": "/collectables/avalibakedovoid",
-		"value":
-		{
-		  "order" : 251,
-		  "item" : "avalibakedovoid"
-		}
-	},
-	{ 	"op": "add",
-		"path": "/collectables/avalibookiri",
-		"value":
-		{
-		  "order" : 252,
-		  "item" : "avalibookiri"
-		}
-	},
-	{ 	"op": "add",
-		"path": "/collectables/avalicookiedoughicecream",
-		"value":
-		{
-		  "order" : 253,
-		  "item" : "avalicookiedoughicecream"
-		}
-	},
-	{ 	"op": "add",
-		"path": "/collectables/avalicracker",
-		"value":
-		{
-		  "order" : 254,
-		  "item" : "avalicracker"
-		}
-	},
-	{ 	"op": "add",
-		"path": "/collectables/avalihoticedcrown",
-		"value":
-		{
-		  "order" : 255,
-		  "item" : "avalihoticedcrown"
-		}
-	},
-	{ 	"op": "add",
-		"path": "/collectables/avalikirijuice",
-		"value":
-		{
-		  "order" : 256,
-		  "item" : "avalikirijuice"
-		}
-	},
-	{ 	"op": "add",
-		"path": "/collectables/avalikiriwaterice",
-		"value":
-		{
-		  "order" : 257,
-		  "item" : "avalikiriwaterice"
-		}
-	},
-	{ 	"op": "add",
-		"path": "/collectables/avalinakaticoffee",
-		"value":
-		{
-		  "order" : 258,
-		  "item" : "avalinakaticoffee"
-		}
-	},
-	{ 	"op": "add",
-		"path": "/collectables/avalipizzaslice",
-		"value":
-		{
-		  "order" : 259,
-		  "item" : "avalipizzaslice"
-		}
-	},
-	{ 	"op": "add",
-		"path": "/collectables/avalisaltedcaramelcake",
-		"value":
-		{
-		  "order" : 260,
-		  "item" : "avalisaltedcaramelcake"
-		}
-	},
-	{ 	"op": "add",
-		"path": "/collectables/avalispicypopcorn",
-		"value":
-		{
-		  "order" : 261,
-		  "item" : "avalispicypopcorn"
-		}
-	},
-	{ 	"op": "add",
-		"path": "/collectables/avalimeat",
-		"value":
-		{
-		  "order" : 262,
-		  "item" : "avalimeat"
-		}
-	},
-	{ 	"op": "add",
-		"path": "/collectables/avalinoodle",
-		"value":
-		{
-		  "order" : 263,
-		  "item" : "avalinoodle"
-		}
-	},
-	{ 	"op": "add",
-		"path": "/collectables/avalinoodle2",
-		"value":
-		{
-		  "order" : 264,
-		  "item" : "avalinoodle2"
-		}
-	},
-	{ 	"op": "add",
-		"path": "/collectables/avalitaco",
-		"value":
-		{
-		  "order" : 265,
-		  "item" : "avalitaco"
-		}
-	},
-	{ 	"op": "add",
-		"path": "/collectables/avalicider",
-		"value":
-		{
-		  "order" : 266,
-		  "item" : "avalicider"
-		}
-	}
+    [
+        { 	"op": "add",
+            "path": "/collectables/avalibakedovoid",
+            "value":
+            {
+            "order" : 251,
+            "item" : "avalibakedovoid"
+            }
+        },
+        { 	"op": "add",
+            "path": "/collectables/avalibookiri",
+            "value":
+            {
+            "order" : 252,
+            "item" : "avalibookiri"
+            }
+        },
+        { 	"op": "add",
+            "path": "/collectables/avalicookiedoughicecream",
+            "value":
+            {
+            "order" : 253,
+            "item" : "avalicookiedoughicecream"
+            }
+        },
+        { 	"op": "add",
+            "path": "/collectables/avalicracker",
+            "value":
+            {
+            "order" : 254,
+            "item" : "avalicracker"
+            }
+        },
+        { 	"op": "add",
+            "path": "/collectables/avalihoticedcrown",
+            "value":
+            {
+            "order" : 255,
+            "item" : "avalihoticedcrown"
+            }
+        },
+        { 	"op": "add",
+            "path": "/collectables/avalikirijuice",
+            "value":
+            {
+            "order" : 256,
+            "item" : "avalikirijuice"
+            }
+        },
+        { 	"op": "add",
+            "path": "/collectables/avalikiriwaterice",
+            "value":
+            {
+            "order" : 257,
+            "item" : "avalikiriwaterice"
+            }
+        },
+        { 	"op": "add",
+            "path": "/collectables/avalinakaticoffee",
+            "value":
+            {
+            "order" : 258,
+            "item" : "avalinakaticoffee"
+            }
+        },
+        { 	"op": "add",
+            "path": "/collectables/avalipizzaslice",
+            "value":
+            {
+            "order" : 259,
+            "item" : "avalipizzaslice"
+            }
+        },
+        { 	"op": "add",
+            "path": "/collectables/avalisaltedcaramelcake",
+            "value":
+            {
+            "order" : 260,
+            "item" : "avalisaltedcaramelcake"
+            }
+        },
+        { 	"op": "add",
+            "path": "/collectables/avalispicypopcorn",
+            "value":
+            {
+            "order" : 261,
+            "item" : "avalispicypopcorn"
+            }
+        },
+        { 	"op": "add",
+            "path": "/collectables/avalimeat",
+            "value":
+            {
+            "order" : 262,
+            "item" : "avalimeat"
+            }
+        },
+        { 	"op": "add",
+            "path": "/collectables/avalinoodle",
+            "value":
+            {
+            "order" : 263,
+            "item" : "avalinoodle"
+            }
+        },
+        { 	"op": "add",
+            "path": "/collectables/avalinoodle2",
+            "value":
+            {
+            "order" : 264,
+            "item" : "avalinoodle2"
+            }
+        },
+        { 	"op": "add",
+            "path": "/collectables/avalitaco",
+            "value":
+            {
+            "order" : 265,
+            "item" : "avalitaco"
+            }
+        },
+        { 	"op": "add",
+            "path": "/collectables/avalicider",
+            "value":
+            {
+            "order" : 266,
+            "item" : "avalicider"
+            }
+        }
+    ]
 ]

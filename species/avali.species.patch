@@ -1,11 +1,9 @@
 [
-    {
-        "op" : "add",
-        "path" : "/defaultBlueprints",
-        "value" : {
-            "tier1" : [
-                { "item" : "avalibakedovoid"}
-            ]
+    [
+        {
+            "op" : "add",
+            "path" : "/defaultBlueprints/tier1/-",
+            "value" : { "item" : "avalibakedovoid"}
         }
-    }
+    ]
 ]

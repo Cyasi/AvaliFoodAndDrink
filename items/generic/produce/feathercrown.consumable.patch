@@ -1,7 +1,9 @@
 [
-    {
-        "op" : "add",
-        "path" : "/learnBlueprintsOnPickup/-",
-        "value" : "avalihoticedcrown"
-    }
+    [
+        {
+            "op" : "add",
+            "path" : "/learnBlueprintsOnPickup/-",
+            "value" : "avalihoticedcrown"
+        }
+    ]
 ]

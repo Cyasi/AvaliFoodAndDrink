@@ -1,30 +1,69 @@
 [
-    {
-        "op" : "add",
-        "path" : "/avaliingredients",
-        "value" : [
-            [ 0, [
-                { "item": { "name": "avalibottle1" }, "rarity" : 0.05 },
-                { "item": { "name": "avalicracker" }, "rarity" : 0.05 },
-                { "item": { "name": "avalispicypopcorn" }, "rarity" : 0.05 }
-            ] ]
-        ]
-    },
-    {
-        "op" : "add",
-        "path" : "/avalichef",
-        "value" : [
-            [ 0, [
-                { "item": { "name": "avalibottle1" }, "rarity" : 0.1 },
-                { "item": { "name": "avalibakedovoid" }, "rarity" : 0.05 },
-                { "item": { "name": "avalicracker" }, "rarity" : 0.05 },
-                { "item": { "name": "avalikirijuice" }, "rarity" : 0.05 },
-                { "item": { "name": "avalikiriwaterice" }, "rarity" : 0.05 },
-                { "item": { "name": "avalinakaticoffee" }, "rarity" : 0.05 },
-                { "item": { "name": "avalipizzaslice" }, "rarity" : 0.05 },
-                { "item": { "name": "avalispicypopcorn" }, "rarity" : 0.05 },
-                { "item": { "name": "avalisaltedcaramelcake" }, "rarity" : 0.05 }
-            ] ]
-        ]
-    }
+    [
+        {
+            "op": "test",
+            "path": "/avaliingredients"
+        },
+        {
+            "op": "add",
+            "path": "/avaliingredients/0/1/-",
+            "value": { "item": { "name": "avalibottle1" }, "rarity" : 0.05 }
+        },
+        {
+            "op": "add",
+            "path": "/avaliingredients/0/1/-",
+            "value": { "item": { "name": "avalicracker" }, "rarity" : 0.05 }
+        },
+        {
+            "op": "add",
+            "path": "/avaliingredients/0/1/-",
+            "value": { "item": { "name": "avalispicypopcorn" }, "rarity" : 0.05 }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/avalichef"
+        },
+        {
+            "op": "add",
+            "path": "/avalichef/0/1/-",
+            "value": { "item": { "name": "avalibottle1" }, "rarity" : 0.1 }
+        },
+        {
+            "op": "add",
+            "path": "/avalichef/0/1/-",
+            "value": { "item": { "name": "avalibakedovoid" }, "rarity" : 0.05 }
+        },
+        {
+            "op": "add",
+            "path": "/avalichef/0/1/-",
+            "value": { "item": { "name": "avalicracker" }, "rarity" : 0.05 }
+        },
+        {
+            "op": "add",
+            "path": "/avalichef/0/1/-",
+            "value": { "item": { "name": "avalikirijuice" }, "rarity" : 0.05 }
+        },
+        {
+            "op": "add",
+            "path": "/avalichef/0/1/-",
+            "value": { "item": { "name": "avalikiriwaterice" }, "rarity" : 0.05 }
+        },
+        {
+            "op": "add",
+            "path": "/avalichef/0/1/-",
+            "value": { "item": { "name": "avalinakaticoffee" }, "rarity" : 0.05 }
+        },
+        {
+            "op": "add",
+            "path": "/avalichef/0/1/-",
+            "value": { "item": { "name": "avalipizzaslice" }, "rarity" : 0.05 }
+        },
+        {
+            "op": "add",
+            "path": "/avalichef/0/1/-",
+            "value": { "item": { "name": "avalispicypopcorn" }, "rarity" : 0.05 }
+        }
+    ]
 ]
