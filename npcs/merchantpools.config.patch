@@ -18,6 +18,11 @@
             "op": "add",
             "path": "/avaliingredients/0/1/-",
             "value": { "item": { "name": "avalispicypopcorn" }, "rarity" : 0.05 }
+        },
+        {
+            "op": "add",
+            "path": "/avaliingredients/0/1/-",
+            "value": { "item": { "name": "alienmeat" }, "rarity" : 0.05 }
         }
     ],
     [
