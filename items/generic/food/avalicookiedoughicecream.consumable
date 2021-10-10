@@ -6,7 +6,7 @@
     "inventoryIcon": "avalicookiedoughicecream.png",
     "description": "Soft and creamy ice with dough made of soft Piru flour.",
     "shortdescription": "Cookie Dough Ice Cream",
-    "foodValue": 25,
+    "foodValue": 40,
     "tooltipKind": "food",
     "effects" : [ [
         {
