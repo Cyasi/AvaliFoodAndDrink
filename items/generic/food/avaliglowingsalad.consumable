@@ -1,0 +1,32 @@
+{
+    "itemName": "avaliglowingsalad",
+    "rarity": "common",
+    "price": 200,
+    "category": "preparedFood",
+    "inventoryIcon": "avaliglowingsalad.png",
+    "description": "A bioluminescent salad. Healthy and glowing.",
+    "shortdescription": "Glowsalad",
+    "foodValue": 20,
+    "tooltipKind": "food",
+    "effects" : [ [
+        {
+            "effect" : "maxenergyscalingboostfood",
+            "duration" : 45
+        },
+        {
+            "effect": "maxenergyscalingboostfood",
+            "duration": 45
+        },
+        {
+            "effect": "glow",
+            "duration": 120
+        }
+    ] ],
+    "builder": "/items/buildscripts/buildfood.lua",
+    "maxStack": 1,
+    "itemAgingScripts": ["/scripts/items/rotting.lua"],
+    "rottingMultiplier": 1.0,
+    "blockingEffects": [
+        "wellfed"
+    ]
+}

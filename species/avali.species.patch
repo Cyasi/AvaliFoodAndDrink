@@ -4,6 +4,11 @@
             "op" : "add",
             "path" : "/defaultBlueprints/tier1/-",
             "value" : { "item" : "avalibakedovoid"}
+        },
+        {
+            "op" : "add",
+            "path" : "/defaultBlueprints/tier1/-",
+            "value" : { "item" : "avaliflatbread"}
         }
     ]
 ]
