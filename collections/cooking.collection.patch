@@ -135,14 +135,6 @@
             "order" : 267,
             "item" : "avaliglowingsalad"
             }
-        },
-        { 	"op": "add",
-            "path": "/collectables/avaliflatbread",
-            "value":
-            {
-            "order" : 268,
-            "item" : "avaliflatbread"
-            }
         }
     ]
 ]

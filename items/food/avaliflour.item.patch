@@ -14,11 +14,6 @@
             "op" : "add",
             "path" : "/learnBlueprintsOnPickup/-",
             "value" : "avalipizzaslice"
-        },
-        {
-            "op" : "add",
-            "path" : "/learnBlueprintsOnPickup/-",
-            "value" : "avaliflatbread"
         }
     ]
 ]
