@@ -7,7 +7,7 @@
         { "item" : "snowball", "count" : 1 }
     ],
     "output" : { "item" : "avalihoticedcrown", "count" : 1 },
-    "groups" : [ "kitchen", "mains" ],
+    "groups" : [ "kitchen", "mains", "avalifood" ],
     "collectables" : { "cooking" : "avalihoticedcrown" }
 }
 

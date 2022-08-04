@@ -3,6 +3,6 @@
     { "item" : "glowfibre", "count" : 2 }
   ],
   "output" : { "item" : "avaliglowingsalad", "count" : 1 },
-  "groups" : [ "kitchen", "sides", "craftingfood" ],
+  "groups" : [ "kitchen", "sides", "craftingfood", "avalifood" ],
   "collectables" : { "cooking" : "avaliglowingsalad" }
 }

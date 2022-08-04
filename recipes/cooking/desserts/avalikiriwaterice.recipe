@@ -5,7 +5,7 @@
         { "item" : "snowball", "count" : 1 }
     ],
     "output" : { "item" : "avalikiriwaterice", "count" : 1 },
-    "groups" : [ "kitchen", "desserts" ],
+    "groups" : [ "kitchen", "desserts", "avalifood" ],
     "collectables" : { "cooking" : "avalikiriwaterice" }
 }
 

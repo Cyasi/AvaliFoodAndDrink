@@ -5,7 +5,7 @@
         { "item" : "avaliflour", "count" : 1 }
     ],
     "output" : { "item" : "avalicookiedoughicecream", "count" : 1 },
-    "groups" : [ "kitchen", "desserts" ],
+    "groups" : [ "kitchen", "desserts", "avalifood" ],
     "collectables" : { "cooking" : "avalicookiedoughicecream" }
 }
 

@@ -6,7 +6,7 @@
         { "item" : "avaliflour", "count" : 1 }
     ],
     "output" : { "item" : "avalipizzaslice", "count" : 1 },
-    "groups" : [ "kitchen", "mains" ],
+    "groups" : [ "kitchen", "mains", "avalifood" ],
     "collectables" : { "cooking" : "avalipizzaslice" }
 }
 
